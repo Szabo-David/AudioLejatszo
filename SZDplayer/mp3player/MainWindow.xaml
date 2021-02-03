@@ -5,7 +5,7 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:mp3player"
         mc:Ignorable="d"
-        Title="SZDPlayer" Height="439.138" Width="376.5">
+        Title="SZDPlayer" Height="439.138" Width="376.5" ResizeMode="NoResize">
     <Grid>
         <Button x:Name="kivalaszt" Content="Megnyitás" HorizontalAlignment="Left" Margin="20,16,0,0" VerticalAlignment="Top" Width="102" Height="30" FontSize="20" FontFamily="Times New Roman" Click="kivalaszt_Click"/>
         <Button x:Name="Lejatszas" Content="Play" HorizontalAlignment="Left" Margin="265,157,0,0" VerticalAlignment="Top" Width="84" Height="29" FontSize="20" FontFamily="Times New Roman" Click="Lejatszas_Click" RenderTransformOrigin="0.012,0.586"/>
