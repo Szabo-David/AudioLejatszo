@@ -1,0 +1,45 @@
+﻿<Window x:Name="MP3Player" x:Class="mp3player.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:mp3player"
+        mc:Ignorable="d"
+        Title="SZDPlayer" Height="439.138" Width="376.5">
+    <Grid>
+        <Button x:Name="kivalaszt" Content="Megnyitás" HorizontalAlignment="Left" Margin="20,16,0,0" VerticalAlignment="Top" Width="102" Height="30" FontSize="20" FontFamily="Times New Roman" Click="kivalaszt_Click"/>
+        <Button x:Name="Lejatszas" Content="Play" HorizontalAlignment="Left" Margin="265,157,0,0" VerticalAlignment="Top" Width="84" Height="29" FontSize="20" FontFamily="Times New Roman" Click="Lejatszas_Click" RenderTransformOrigin="0.012,0.586"/>
+        <Button x:Name="Leallitas" Content="Stop" HorizontalAlignment="Left" Margin="265,108,0,0" VerticalAlignment="Top" Width="84" Height="29" FontSize="20" FontFamily="Times New Roman" Click="Leallitas_Click"/>
+        <Button x:Name="Megallitas" Content="Pause" HorizontalAlignment="Left" Margin="265,209,0,0" VerticalAlignment="Top" Width="84" Height="29" FontSize="20" FontFamily="Times New Roman" Click="Megallitas_Click"/>
+        <ListBox x:Name="zenek" HorizontalAlignment="Left" Height="273" Margin="45,61,0,0" VerticalAlignment="Top" Width="183" SelectionChanged="zenek_SelectionChanged"/>
+        <Slider x:Name="hangero" HorizontalAlignment="Left" Margin="11,142,0,0" VerticalAlignment="Top" Height="103" Width="24" ValueChanged="hangero_ValueChanged" Maximum="1" Value="1" RenderTransformOrigin="0.5,0.5" Orientation="Vertical" LargeChange="0.1">
+            <Slider.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform AngleY="0.006"/>
+                    <RotateTransform Angle="0.13"/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </Slider.RenderTransform>
+        </Slider>
+        <Slider x:Name="helyzet1" HorizontalAlignment="Left" Margin="47,363,0,0" VerticalAlignment="Top" Height="25" RenderTransformOrigin="0.5,0.5" Width="180" ValueChanged="helyzet1_ValueChanged_1" LostMouseCapture="Tekeres">
+            <Slider.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform ScaleY="-1"/>
+                    <SkewTransform/>
+                    <RotateTransform/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </Slider.RenderTransform>
+        </Slider>
+        <Button x:Name="torles" Content="Törlés" HorizontalAlignment="Left" Margin="265,305,0,0" VerticalAlignment="Top" FontSize="15" Width="84" Height="29" Click="torles_Click"/>
+        <Label x:Name="fajlnev" Content="" HorizontalAlignment="Left" Margin="45,339,0,0" VerticalAlignment="Top" Width="183"/>
+        <Button x:Name="listamentes" Content="Mentés" HorizontalAlignment="Left" Margin="143,16,0,0" VerticalAlignment="Top" Width="102" Height="30" Click="Listamentes_Click" FontSize="16"/>
+        <Button x:Name="listabetoltes" Content="Lista betöltése" HorizontalAlignment="Left" Margin="265,16,0,0" VerticalAlignment="Top" Width="84" Click="Listabetoltes_Click" Height="30"/>
+        <Button x:Name="prev" Content="&lt;&lt;" HorizontalAlignment="Left" Margin="265,259,0,0" VerticalAlignment="Top" Width="84" Height="29" Click="prev_Click"/>
+        <Button x:Name="next" Content="&gt;&gt;" HorizontalAlignment="Left" Margin="265,61,0,0" VerticalAlignment="Top" Width="84" Height="29" Click="next_Click"/>
+        <Image Source="imagelow.png" HorizontalAlignment="Left" Height="26" Margin="7,245,0,0" VerticalAlignment="Top" Width="33"/>
+
+
+    </Grid>
+</Window>

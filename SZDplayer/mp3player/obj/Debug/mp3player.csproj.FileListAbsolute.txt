@@ -1,0 +1,45 @@
+D:\2020-21\Prog\mp3player\mp3player\obj\Debug\mp3player.csprojAssemblyReference.cache
+D:\2020-21\Prog\mp3player\mp3player\obj\Debug\MainWindow.g.cs
+D:\2020-21\Prog\mp3player\mp3player\obj\Debug\App.g.cs
+D:\2020-21\Prog\mp3player\mp3player\obj\Debug\mp3player_MarkupCompile.cache
+D:\2020-21\Prog\mp3player\mp3player\obj\Debug\mp3player_MarkupCompile.lref
+D:\2020-21\Prog\mp3player\mp3player\bin\Debug\mp3player.exe.config
+D:\2020-21\Prog\mp3player\mp3player\bin\Debug\mp3player.exe
+D:\2020-21\Prog\mp3player\mp3player\bin\Debug\mp3player.pdb
+D:\2020-21\Prog\mp3player\mp3player\obj\Debug\MainWindow.baml
+D:\2020-21\Prog\mp3player\mp3player\obj\Debug\mp3player.g.resources
+D:\2020-21\Prog\mp3player\mp3player\obj\Debug\mp3player.Properties.Resources.resources
+D:\2020-21\Prog\mp3player\mp3player\obj\Debug\mp3player.csproj.GenerateResource.cache
+D:\2020-21\Prog\mp3player\mp3player\obj\Debug\mp3player.csproj.CoreCompileInputs.cache
+D:\2020-21\Prog\mp3player\mp3player\obj\Debug\mp3player.exe
+D:\2020-21\Prog\mp3player\mp3player\obj\Debug\mp3player.pdb
+D:\2020-21\Prog\mp3player másolata\mp3player\bin\Debug\mp3player.exe.config
+D:\2020-21\Prog\mp3player másolata\mp3player\bin\Debug\mp3player.exe
+D:\2020-21\Prog\mp3player másolata\mp3player\bin\Debug\mp3player.pdb
+D:\2020-21\Prog\mp3player másolata\mp3player\obj\Debug\mp3player.csprojAssemblyReference.cache
+D:\2020-21\Prog\mp3player másolata\mp3player\obj\Debug\MainWindow.g.cs
+D:\2020-21\Prog\mp3player másolata\mp3player\obj\Debug\App.g.cs
+D:\2020-21\Prog\mp3player másolata\mp3player\obj\Debug\mp3player_MarkupCompile.cache
+D:\2020-21\Prog\mp3player másolata\mp3player\obj\Debug\mp3player_MarkupCompile.lref
+D:\2020-21\Prog\mp3player másolata\mp3player\obj\Debug\MainWindow.baml
+D:\2020-21\Prog\mp3player másolata\mp3player\obj\Debug\mp3player.g.resources
+D:\2020-21\Prog\mp3player másolata\mp3player\obj\Debug\mp3player.Properties.Resources.resources
+D:\2020-21\Prog\mp3player másolata\mp3player\obj\Debug\mp3player.csproj.GenerateResource.cache
+D:\2020-21\Prog\mp3player másolata\mp3player\obj\Debug\mp3player.csproj.CoreCompileInputs.cache
+D:\2020-21\Prog\mp3player másolata\mp3player\obj\Debug\mp3player.exe
+D:\2020-21\Prog\mp3player másolata\mp3player\obj\Debug\mp3player.pdb
+D:\2020-21\Komp. Prog\mp3player másolata\mp3player\bin\Debug\mp3player.exe.config
+D:\2020-21\Komp. Prog\mp3player másolata\mp3player\bin\Debug\mp3player.exe
+D:\2020-21\Komp. Prog\mp3player másolata\mp3player\bin\Debug\mp3player.pdb
+D:\2020-21\Komp. Prog\mp3player másolata\mp3player\obj\Debug\mp3player.csprojAssemblyReference.cache
+D:\2020-21\Komp. Prog\mp3player másolata\mp3player\obj\Debug\MainWindow.g.cs
+D:\2020-21\Komp. Prog\mp3player másolata\mp3player\obj\Debug\App.g.cs
+D:\2020-21\Komp. Prog\mp3player másolata\mp3player\obj\Debug\mp3player_MarkupCompile.cache
+D:\2020-21\Komp. Prog\mp3player másolata\mp3player\obj\Debug\mp3player_MarkupCompile.lref
+D:\2020-21\Komp. Prog\mp3player másolata\mp3player\obj\Debug\MainWindow.baml
+D:\2020-21\Komp. Prog\mp3player másolata\mp3player\obj\Debug\mp3player.g.resources
+D:\2020-21\Komp. Prog\mp3player másolata\mp3player\obj\Debug\mp3player.Properties.Resources.resources
+D:\2020-21\Komp. Prog\mp3player másolata\mp3player\obj\Debug\mp3player.csproj.GenerateResource.cache
+D:\2020-21\Komp. Prog\mp3player másolata\mp3player\obj\Debug\mp3player.csproj.CoreCompileInputs.cache
+D:\2020-21\Komp. Prog\mp3player másolata\mp3player\obj\Debug\mp3player.exe
+D:\2020-21\Komp. Prog\mp3player másolata\mp3player\obj\Debug\mp3player.pdb
